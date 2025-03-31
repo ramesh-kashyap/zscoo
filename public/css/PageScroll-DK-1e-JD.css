@@ -1,0 +1,49 @@
+.page[data-v-ebfcdf27] {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden
+}
+
+.page.nobg[data-v-ebfcdf27] {
+    background: none
+}
+
+.page .headers[data-v-ebfcdf27] {
+    flex: 0 0 auto;
+    width: 100%;
+    position: relative;
+    z-index: 9
+}
+
+.page .headers.fixed[data-v-ebfcdf27] {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.page .footer[data-v-ebfcdf27] {
+    flex: 0 0 auto;
+    width: 100%;
+    position: relative;
+    z-index: 2
+}
+
+.page .page-container[data-v-ebfcdf27] {
+    min-height: 0;
+    flex: 1;
+    position: relative;
+    z-index: 2
+}
+
+.page .scroll[data-v-ebfcdf27] {
+    height: 100%;
+    overflow-y: auto
+}

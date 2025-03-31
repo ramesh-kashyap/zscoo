@@ -1,0 +1,31 @@
+.set_area[data-v-39429002] {
+    margin-right: .24rem;
+    font-size: .3rem;
+    height: 1rem;
+    width: 1.64rem;
+    font-weight: 500;
+    color: #000;
+    display: flex;
+    align-items: center;
+    background: #f3f3f3;
+    justify-content: center;
+    border-radius: .24rem
+}
+
+.set_area img[data-v-39429002] {
+    margin-left: .1rem;
+    vertical-align: middle
+}
+
+.set_area .icon[data-v-39429002] {
+    margin-left: .08rem;
+    font-weight: 700;
+    font-size: .24rem
+}
+
+input[data-v-39429002] {
+    height: 1rem;
+    padding: 0 .28rem;
+    background: #f3f3f3;
+    border-radius: .24rem
+}
